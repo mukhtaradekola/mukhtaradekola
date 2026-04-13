@@ -15,11 +15,11 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 
 | Skill                                         | Associated Project |
 |----------------------------------------------|-------------------|
-| SIEM Log Analysis (Splunk, ELK Stack)        | Log Analysis & SIEM Investigation |
+| SIEM Log Analysis (Splunk, ELK Stack)        | Defensive Security & Incident Response Lab |
 | Security Monitoring & Alert Triage           | SOC Lab Simulations |
 | Incident Response & Investigation            | SOC Lab Simulations |
-| Phishing Analysis & Threat Intelligence      | Phishing Investigation Lab |
-| Network Traffic Analysis (Wireshark, PCAP)   | Network Traffic Analysis Lab |
+| Phishing Analysis & Threat Intelligence      | Defensive Security & Incident Response Lab |
+| Network Traffic Analysis (Wireshark, PCAP)   | Defensive Security & Incident Response Lab |
 | IOC Identification & Threat Analysis         | Multiple SOC Investigations |
 
 ---
@@ -59,7 +59,7 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 
 ---
 
-### Certifications & Training
+### Certifications
 <div>
 <a href="https://drive.google.com/file/d/1rx2rYan6us3_jicQRttOfPION-J6TJTA/view?usp=sharing">
     <img src="https://img.shields.io/badge/-TryHackMe_SAL1-212C42?&style=for-the-badge&logo=tryhackme&logoColor=red" />
@@ -83,27 +83,13 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 
 ## Projects
 
-### Log Analysis and SIEM-Based Investigation
-- Analyzed logs from Windows Event Logs, firewall logs, and authentication systems  
-- Investigated 40+ security alerts and identified true/false positives  
-- Created detection queries for suspicious activities  
-- Produced detailed incident reports with timelines and response actions  
-
----
-
-### Phishing Email Investigation and Threat Analysis
-- Investigated 30+ phishing incidents in a SOC environment  
-- Analyzed email headers, links, and spoofing techniques  
-- Identified malicious domains including typosquatting attacks  
-- Extracted and analyzed IOCs using VirusTotal and Cisco Talos  
-
----
-
-### Network Traffic Analysis and Threat Detection
-- Investigated 10+ network attack scenarios including port scanning and brute-force attempts  
-- Analyzed PCAP files using Wireshark  
-- Identified suspicious traffic patterns and unauthorized connections  
-- Documented findings and recommended network hardening measures  
+### 🛡️ Defensive Security & Incident Response Lab
+- *Incident Investigation:* Investigated 70+ simulated security incidents, including phishing attacks, brute-force attempts, and network-based threats.
+- *SIEM Operations:* Utilized Splunk and ELK Stack to analyze 40+ alerts, effectively distinguishing between true and false positives through contextual analysis.
+- *Detection Engineering:* Developed custom queries to identify suspicious activities such as privilege escalation and failed login spikes.
+- *Threat Analysis:* Analyzed email headers, malicious URLs, and lookalike domains to mitigate phishing and credential harvesting.
+- *Network Threat Detection:* Examined packet captures (PCAPs) using Wireshark to detect command-and-control (C2) communication patterns and unauthorized connections.
+- *Reporting & Mitigation:* Documented comprehensive attack timelines and proposed network hardening measures to reduce the attack surface.  
 
 ---
 ### 🛡️ SOC Analyst Home Lab
