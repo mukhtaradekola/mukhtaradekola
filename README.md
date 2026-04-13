@@ -2,7 +2,7 @@
 <div>
     <a href="https://www.linkedin.com/in/mukhtar-adekola-890576277"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:mukhtaradekola75@gmail.com">
+    <a href="mukhtaradekola75@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=green" />
 </a>
 </div>
