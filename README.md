@@ -19,11 +19,11 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 
 | Skill                                         | Associated Project |
 |----------------------------------------------|-------------------|
-| SIEM Log Analysis (Splunk, ELK Stack)        | SOC Incident Detection & Response Simulation Lab |
+| SIEM Log Analysis (Splunk, ELK Stack)        | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
 | Security Monitoring & Alert Triage           | SOC Lab Simulations |
 | Incident Response & Investigation            | SOC Lab Simulations |
-| Phishing Analysis & Threat Intelligence      | SOC Incident Detection & Response Simulation Lab |
-| Network Traffic Analysis (Wireshark, PCAP)   | SOC Incident Detection & Response Simulation Lab |
+| Phishing Analysis & Threat Intelligence      | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
+| Network Traffic Analysis (Wireshark, PCAP)   | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
 | IOC Identification & Threat Analysis         | Multiple SOC Investigations |
 
 ---
@@ -87,8 +87,8 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 
 ## Projects
 
-### 🛡️ SOC Incident Detection & Response Simulation Lab
-### 🛡️ SOC Analyst Home Lab
+ 🛡️ <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a>
+ 🛡️ SOC Analyst Home Lab
 👉 Coming soon...
 
 ---
