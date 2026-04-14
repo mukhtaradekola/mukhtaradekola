@@ -19,11 +19,11 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 
 | Skill                                         | Associated Project |
 |----------------------------------------------|-------------------|
-| SIEM Log Analysis (Splunk, ELK Stack)        | Defensive Security & Incident Response Lab |
+| SIEM Log Analysis (Splunk, ELK Stack)        | SOC Incident Detection & Response Simulation Lab |
 | Security Monitoring & Alert Triage           | SOC Lab Simulations |
 | Incident Response & Investigation            | SOC Lab Simulations |
-| Phishing Analysis & Threat Intelligence      | Defensive Security & Incident Response Lab |
-| Network Traffic Analysis (Wireshark, PCAP)   | Defensive Security & Incident Response Lab |
+| Phishing Analysis & Threat Intelligence      | SOC Incident Detection & Response Simulation Lab |
+| Network Traffic Analysis (Wireshark, PCAP)   | SOC Incident Detection & Response Simulation Lab |
 | IOC Identification & Threat Analysis         | Multiple SOC Investigations |
 
 ---
@@ -87,19 +87,8 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 
 ## Projects
 
-### 🛡️ Defensive Security & Incident Response Lab
-- *Incident Investigation:* Investigated 70+ simulated security incidents, including phishing attacks, brute-force attempts, and network-based threats.
-- *SIEM Operations:* Utilized Splunk and ELK Stack to analyze 40+ alerts, effectively distinguishing between true and false positives through contextual analysis.
-- *Detection Engineering:* Developed custom queries to identify suspicious activities such as privilege escalation and failed login spikes.
-- *Threat Analysis:* Analyzed email headers, malicious URLs, and lookalike domains to mitigate phishing and credential harvesting.
-- *Network Threat Detection:* Examined packet captures (PCAPs) using Wireshark to detect command-and-control (C2) communication patterns and unauthorized connections.
-- *Reporting & Mitigation:* Documented comprehensive attack timelines and proposed network hardening measures to reduce the attack surface.  
-
----
+### 🛡️ SOC Incident Detection & Response Simulation Lab
 ### 🛡️ SOC Analyst Home Lab
-- Built a virtual SOC lab using VirtualBox
-- Simulated attacks and analyzed logs  
-
 👉 Coming soon...
 
 ---
