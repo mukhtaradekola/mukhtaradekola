@@ -88,7 +88,7 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 ## Projects
 
 -   🛡️ <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a>
--   🛡️ SOC Analyst Home Lab
+-   🛡️  <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Analyst Home Lab – Attack Detection & Analysis 
 -   👉 Coming soon...
 
 ---
