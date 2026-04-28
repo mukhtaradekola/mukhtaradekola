@@ -20,10 +20,13 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 | Skill                                         | Associated Project |
 |----------------------------------------------|-------------------|
 | SIEM Log Analysis (Splunk, ELK Stack)        | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
+| Endpoint Security Monitoring (Wazuh, Sysmon) | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Wazuh Detection & Analysis</a> |
+| MITRE ATT&CK Framework Mapping | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Wazuh Detection & Analysis</a> |
 | Security Monitoring & Alert Triage           | SOC Lab Simulations |
 | Incident Response & Investigation            | SOC Lab Simulations |
 | Phishing Analysis & Threat Intelligence      | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
 | Network Traffic Analysis (Wireshark, PCAP)   | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
+| Multi-Stage Attack Chain Investigation | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Wazuh Detection & Analysis</a> |
 | IOC Identification & Threat Analysis         | Multiple SOC Investigations |
 
 ---
@@ -39,6 +42,8 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-ELK_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00a2ed?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    
 </div>
 
 ### Threat Intelligence
@@ -88,7 +93,7 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 ## Projects
 
 -   🛡️ <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a>
--   🛡️  <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Analyst Home Lab – Attack Detection & Analysis 
+-   🛡️ <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Analyst Home Lab – Attack Detection & Analysis 
 -   👉 Coming soon...
 
 ---
