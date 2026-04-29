@@ -20,13 +20,13 @@ Cybersecurity Analyst with a B.Sc. in Computer Science and hands-on experience i
 | Skill                                         | Associated Project |
 |----------------------------------------------|-------------------|
 | SIEM Log Analysis (Splunk, ELK Stack)        | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
-| Endpoint Security Monitoring (Wazuh, Sysmon) | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Wazuh Detection & Analysis</a> |
-| MITRE ATT&CK Framework Mapping | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Wazuh Detection & Analysis</a> |
+| Endpoint Security Monitoring (Wazuh, Sysmon) | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Attack Detection & Analysis</a> |
+| MITRE ATT&CK Framework Mapping | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Attack Detection & Analysis</a> |
 | Security Monitoring & Alert Triage           | SOC Lab Simulations |
 | Incident Response & Investigation            | SOC Lab Simulations |
 | Phishing Analysis & Threat Intelligence      | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
 | Network Traffic Analysis (Wireshark, PCAP)   | <a href= "https://github.com/mukhtaradekola/SOC-Incident-Detection-Response-Simulation-Lab"> SOC Incident Detection & Response Simulation Lab</a> |
-| Multi-Stage Attack Chain Investigation | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Wazuh Detection & Analysis</a> |
+| Multi-Stage Attack Chain Investigation | <a href= "https://github.com/mukhtaradekola/SOC-Analyst-Home-Lab-Attack-Detection-Analysis"> SOC Home Lab - Attack Detection & Analysis</a> |
 | IOC Identification & Threat Analysis         | Multiple SOC Investigations |
 
 ---
